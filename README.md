@@ -28,6 +28,3 @@ Nikel é uma aplicação web simples para controle de finanças pessoais, permit
 - Bootstrap5
 
 ---
-
-## 📁 Estrutura do Projeto
-
